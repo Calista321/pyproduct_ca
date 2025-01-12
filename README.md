@@ -4,8 +4,12 @@ Calculate product of two numbers!
 
 ## Installation
 
+You can be able to visit my package on TestPyPI. The URL for my pycounts package is: https://test.pypi.org/project/pyproduct_ca/. 
+
+You can try installing my package using pip from the command line with the following command:
+
 ```bash
-$ pip install pyproduct_ca
+$ pip install -i https://test.pypi.org/simple/ pyproduct_ca
 ```
 
 ## Usage
