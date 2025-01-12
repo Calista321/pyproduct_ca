@@ -10,7 +10,15 @@ $ pip install pyproduct_ca
 
 ## Usage
 
-- TODO
+`pyproduct_ca` can be used to calculate the product of two numbers
+as follows:
+
+```python
+from pyproduct_ca import product_numbers
+
+result = product_numbers(5, 6)
+print(result)  # Outputs: 30
+```
 
 ## Contributing
 
